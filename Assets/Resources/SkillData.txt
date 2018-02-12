@@ -1,0 +1,2 @@
+{"title":"atk","maxLevel":7}
+{"title":"def","maxLevel":5}

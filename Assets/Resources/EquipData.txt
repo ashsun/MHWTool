@@ -1,0 +1,5 @@
+{"type":2,"title":"ARM1","skills":[{"title":"atk","level":1},{"title":"def","level":1}],"holes":[{"maxLevel":1},{"maxLevel":1}]}
+{"type":4,"title":"LEG1","skills":[{"title":"atk","level":2}],"holes":[{"maxLevel":2},{"maxLevel":1}]}
+{"type":5,"title":"DEF1","skills":[{"title":"def","level":1}],"holes":[],"level":1}
+{"type":6,"title":"STN1","skills":[{"title":"atk","level":1}],"holes":[]}
+{"type":6,"title":"STN2","skills":[{"title":"atk","level":2}],"holes":[]}
